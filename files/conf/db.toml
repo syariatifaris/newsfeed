@@ -1,0 +1,7 @@
+[Database]
+    Host = "149.129.213.142"
+    Type = "postgres"
+    Name = "arkeus-sample"
+    User = "app"
+    Password = "schn3p3l"
+    Port = 5432
