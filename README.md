@@ -8,7 +8,7 @@ Run migration files on `files/migration`
 
 #### Installation
 
-1. `go get github.com/syariatifaris/kumparan`
+1. `go get github.com/syariatifaris/newsfeed`
 2. `dep ensure -v`
 
 
