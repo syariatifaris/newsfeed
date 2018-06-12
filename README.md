@@ -2,6 +2,10 @@
 
 This API uses `github.com/syariatifaris/arkeus` framework
 
+#### Database Setup
+
+Run migration files on `files/migration`
+
 #### Installation
 
 1. `go get github.com/syariatifaris/kumparan`
