@@ -4,7 +4,7 @@ This API uses `github.com/syariatifaris/arkeus` framework
 
 #### Installation
 
-1. `go get github.com/syariatifaris/kumparan`
+1. `go get github.com/syariatifaris/newsfeed`
 2. `dep ensure -v`
 
 
